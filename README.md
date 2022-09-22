@@ -27,10 +27,10 @@ By looking at these response we can say that our model is performing accordingly
 While working out on this amazing project limitation of data was my only problem i only had 8000 movie quotes for the developement of this project so anyone who want to use this code for the traning purpose should gather a large sum of data and then try to fine tune the gpt model.
 
 ## Files Description
-You will find three files in the project.<br />
-Cleaned_data.csv: if you want to use already preprocessed file then you can consume this file and can implement your finding and techniques on it to develope the algorithms.<br />
-Roman_Urdu_Hate_Speech_Dataset.csv: This file only contains the tweets and their respective labels.<br />
-Roman_Urdu_Hate_Speech.ipynb: This is the notebook file which is built using google colab.
+Data_Preprocessing.ipynb: This is a jupyter notebook file to preprocess the quotes data and extract the keywords from the text.<br />
+GPT2_Training.ipynb: This is a jupyter notebook file in which all the finetuning and training is present.<br />
+lessreal-data.csv: Raw data of quotes and anime movies.<br />
+Quotes_with_keyword.csv: Cleaned quotes data with keywords.
 
 ### Methods Used
 * Data preprocessing
