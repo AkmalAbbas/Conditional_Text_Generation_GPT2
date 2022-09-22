@@ -2,7 +2,7 @@
 Text generation is basically a task in which a user gives a prompt or sample text as input and the machine learning model will generate more text just like humans do.<br />
 In modern world AI has excelled into the field of natural language processing and there are many advancements in research to develope architectures which helps and asisst human in automating different tasks like paraphrasing, summarization and generation of text.<br />
 One of the major breakthrough in this aspect is the innovation of transformer architectures. Transformers is basically an advanced deep learning model which adopts the mechanism of self attention and helps in solving many sequence to sequence or language modeling tasks. <br />
-In this project i have fine tuned a gpt2 model on the quotes of anime characters in the movie and important keywords in the text, Our model trained itself in a way that it used text and keywords both in cojuction so that while generating new text it keeps the as a context then generate the anime character quotes based on those keyword.
+In this project i have fine tuned a gpt2 model on the quotes of anime characters in the movie and important keywords in the text, Our model trained itself in a way that it used text and keywords both in conjuction so that while generating new text it keeps the context of keyword and then generate the anime character quotes based on those keyword.
 
 
 #### -- Project Status: [Active]
